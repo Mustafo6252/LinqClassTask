@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+*.json
+*.exe
+*.dll
+*.pdb
+*.sln
+*.csproj
+*.idea
